@@ -1,0 +1,12 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(194, 215, 221);
+}
+.boldit{
+    font-weight: bolder;
+}
+.coolfont{
+    font-family: fantasy;
+}
